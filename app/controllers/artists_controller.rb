@@ -1,4 +1,5 @@
 class ArtistsController < ApplicationController
+<<<<<<< HEAD
 
     def index 
         @artist = Artist.all 
@@ -35,4 +36,6 @@ class ArtistsController < ApplicationController
     end 
 
 
+=======
+>>>>>>> 5772a4468552ba6e00f20e87e1b11b57c7717af9
 end
